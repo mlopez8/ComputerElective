@@ -1,0 +1,22 @@
+name = 'Mariana Lopez'
+age = 17
+gpa = 3.0
+
+print name
+print age
+print gpa
+
+print 'My Name Is', name
+
+print "In ten years I will be", age + 10
+#DogYears
+ageInHumanYears = 2
+ageInDogYears = ageInHumanYears *7
+
+print 'Your dog is', ageInDogYears, 'years old!'
+print 'But my dog is', ageInHumanYears, 'yeard old in Human Years.' 
+
+myNumber = 3.0 * 8 + 1
+print myNumber
+
+#Parens, Exponents, Multiplication, Division, Addition, and Subtraction
