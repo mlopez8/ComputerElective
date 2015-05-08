@@ -1,0 +1,10 @@
+operand1 = 95
+operand2 = 64.5 
+
+print operand1, "+" , operand2, "=" , operand1 + operand2
+print operand1, "-" , operand2, "=" , operand1 - operand2
+print operand1, "*" , operand2, "=" , operand1 * operand2
+print operand1, "/" , operand2, "=" , operand1 / operand2
+print operand1, "%" , operand2, "=" , operand1 % operand2
+
+#This works because it was extablished what operand1 and 2 are so after that you can just add the different signs and the coding system will know what to do.
